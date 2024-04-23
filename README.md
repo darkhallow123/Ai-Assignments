@@ -19,7 +19,7 @@ For this experiment, you should compare the results and explain the reason for t
 4. Apply one or more of the algorithms in this chapter to solve a range of problems in the domain, and comment on their performance.
 
 
-	3.9) The missionaries and cannibals problem is usually stated as follows. Three missionaries 
+3.9) The missionaries and cannibals problem is usually stated as follows. Three missionaries 
 and three cannibals are on one side of a river, along with a boat that can hold one or
 two people. Find a way to get everyone to the other side without ever leaving a group of missionaries 
 in one place outnumbered by the cannibals in that place. This problem is famous inAI because it was 
@@ -35,7 +35,7 @@ is so simple?
 
                          --------------------Programming assignment 3--------------------
    
-	Generate a large number of 8-puzzle and 8-queens instances and solve them (where possible) by hill climbing (steepest-ascent and first-choice variants), hill climbing with random restart, and simulated annealing. Measure the search cost and percentage of solved problems and graph these against the optimal solution cost. Comment on your results. 
+Generate a large number of 8-puzzle and 8-queens instances and solve them (where possible) by hill climbing (steepest-ascent and first-choice variants), hill climbing with random restart, and simulated annealing. Measure the search cost and percentage of solved problems and graph these against the optimal solution cost. Comment on your results. 
 
 
 
